@@ -25,7 +25,8 @@
 <img width="5%" title="Jira" src="src/media/Jira.svg">
 <img width="5%" title="Browserstack" src="src/media/images.jpeg">
 <img width="5%" title="Appium" src="src/media/appium.png">
-<img width="5%" title="TestOps" src="src/media/allure_testops.png">
+<img width="5%" title="RestAssured" src="src/media/19369327.png">
+<img width="5%" title="AndroidStudio" src="src/media/Android_Studio_Logo_(2023).png">
 </p>
 
 ### My projects for [qa.guru](https://qa.guru/) (AQA Java courses)

@@ -11,18 +11,21 @@
 ### I use:
 
 <p align="center">
-<img width="6%" title="IntelliJ IDEA" src="media/Intelij_IDEA.svg">
-<img width="6%" title="Java" src="media/Java.svg">
-<img width="6%" title="Selenide" src="media/Selenide.svg">
-<img width="6%" title="Selenoid" src="media/Selenoid.svg">
-<img width="6%" title="Allure Report" src="media/Allure_Report.svg">
-<img width="5%" title="Allure TestOps" src="media/AllureTestOps.svg">
-<img width="6%" title="Gradle" src="media/Gradle.svg">
-<img width="6%" title="JUnit5" src="media/JUnit5.svg">
-<img width="6%" title="GitHub" src="media/GitHub.svg">
-<img width="6%" title="Jenkins" src="media/Jenkins.svg">
-<img width="6%" title="Telegram" src="media/Telegram.svg">
-<img width="5%" title="Jira" src="media/Jira.svg">
+<img width="6%" title="IntelliJ IDEA" src="/src/media/Intelij_IDEA.svg">
+<img width="6%" title="Java" src="src/media/Java.svg">
+<img width="6%" title="Selenide" src="src/media/Selenide.svg">
+<img width="6%" title="Selenoid" src="src/media/Selenoid.svg">
+<img width="6%" title="Allure Report" src="src/media/Allure_Report.svg">
+<img width="5%" title="Allure TestOps" src="src/media/AllureTestOps.svg">
+<img width="6%" title="Gradle" src="src/media/Gradle.svg">
+<img width="6%" title="JUnit5" src="src/media/JUnit5.svg">
+<img width="6%" title="GitHub" src="src/media/GitHub.svg">
+<img width="6%" title="Jenkins" src="src/media/Jenkins.svg">
+<img width="6%" title="Telegram" src="src/media/Telegram.svg">
+<img width="5%" title="Jira" src="src/media/Jira.svg">
+<img width="5%" title="Browserstack" src="src/media/images.jpeg">
+<img width="5%" title="Appium" src="src/media/appium.png">
+<img width="5%" title="TestOps" src="src/media/allure_testops.png">
 </p>
 
 ### My projects for [qa.guru](https://qa.guru/) (AQA Java courses)

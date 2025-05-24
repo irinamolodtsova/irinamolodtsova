@@ -4,7 +4,7 @@
 
 - 🌍 I speak Russian (native), English (B2)
 - 📫 How to reach me irinamolodtsovabusiness@gmail.com or @IrinaSharkies (Telegram)
-- 💻 A little about experience: I am working as a Manual QA since 2022, since late 2024 took AQA Java classes and started to write auto-tests using Java - Selenide
+- 💻 A little about experience: I am working as a Manual QA since 2022, since 2024 took AQA Java classes and started to write auto-tests using Java - Selenide
 
 
 

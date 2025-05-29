@@ -31,7 +31,9 @@
 
 ### My projects for [qa.guru](https://qa.guru/) (AQA Java courses)
 
-[School Project UI for LevelTravel company](https://github.com/irinamolodtsova/LevelTravel_Irina)
+[School Project UI for LevelTravel company](https://github.com/irinamolodtsova/diploma_ui_qaguru)
+[School Project API Tests](https://github.com/irinamolodtsova/diploma_qa_guru_restassured)
+[School Project Mobile Automation Tests](https://github.com/irinamolodtsova/qa_guru_mobile_diploma)
 
 
 
